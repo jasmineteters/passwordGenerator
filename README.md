@@ -8,7 +8,7 @@
 [4. List of Contributors](#List-of-Contributors)
 [5. Tests](#Tests)
 [7. Questions](#Questions)
-[8. Personal Notes](#Personal-Notes)
+[8. Live Deployment](#Live-Deployment)
 [9. Gif of App](#Gif-of-App)
 
 ## Description:
@@ -31,6 +31,7 @@ My Classmates
 My Tutor
 Youtube
 Google
+Lynda
 
 ## Tests:
 
@@ -42,9 +43,10 @@ My github is linked here: https://github.com/jasmineteters
 Feel free to ask additional questions via email at:
 jasmineteters2020@gmail.com
 
-## Personal Notes:
+## Live Deployment:
 
-I had to seek all available resources to get this project done. I sought help from the TAs after class, I joined a virtual zoom group with my classmates, I watched an hour tutorial on how to do this, I spent an additional 3 hours studying JavaScript as a whole, and I spent an hour with my Tutor getting all of it to join together. Thank you to all who helped in the making of this project.
+Link to the GitHub Repo: https://github.com/jasmineteters/passwordGenerator
+Link to the GitHub live page: https://jasmineteters.github.io/passwordGenerator/
 
 ## Gif of App:
 
